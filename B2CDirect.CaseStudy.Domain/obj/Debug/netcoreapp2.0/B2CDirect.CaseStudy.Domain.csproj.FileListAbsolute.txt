@@ -1,0 +1,13 @@
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.deps.json
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.Entities.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.Entities.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.csprojResolveAssemblyReference.cache
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.csproj.CoreCompileInputs.cache
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.AssemblyInfoInputs.cache
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.AssemblyInfo.cs
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Domain/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.pdb

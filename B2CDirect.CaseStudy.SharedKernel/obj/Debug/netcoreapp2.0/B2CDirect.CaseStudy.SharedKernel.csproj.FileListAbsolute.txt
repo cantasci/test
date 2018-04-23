@@ -1,0 +1,17 @@
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.csprojResolveAssemblyReference.cache
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.AssemblyInfoInputs.cache
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.AssemblyInfo.cs
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.deps.json
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Business.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.Entities.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Business.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Domain.Entities.pdb
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.dll
+/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.SharedKernel/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.SharedKernel.pdb

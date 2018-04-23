@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="Run-Multiple">
+  <MonoDevelop.Ide.Workbench ActiveDocument="B2CDirect.CaseStudy.Domain/Repositories/IGenericRepository.cs">
+    <Files>
+      <File FileName="B2CDirect.CaseStudy.Web/Program.cs" Line="3" Column="17" />
+      <File FileName="B2CDirect.CaseStudy.Api/Properties/launchSettings.json" Line="30" Column="31" />
+      <File FileName="B2CDirect.CaseStudy.Api/Program.cs" Line="10" Column="1" />
+      <File FileName="B2CDirect.CaseStudy.Web/ClientApp/app/services/api-study.service.ts" Line="12" Column="24" />
+      <File FileName="B2CDirect.CaseStudy.Web/ClientApp/app/components/product/product.component.html" Line="15" Column="40" />
+      <File FileName="B2CDirect.CaseStudy.Api/Controllers/ProductController.cs" Line="23" Column="1" />
+      <File FileName="B2CDirect.CaseStudy.Business/Services/ProductService.cs" Line="20" Column="1" />
+      <File FileName="B2CDirect.CaseStudy.Domain/Repositories/ProductRepository.cs" Line="31" Column="32" />
+      <File FileName="B2CDirect.CaseStudy.Web/ClientApp/app/components/product/product.component.ts" Line="1" Column="1" />
+      <File FileName="B2CDirect.CaseStudy.Domain/Repositories/GenericRepository.cs" Line="47" Column="9" />
+      <File FileName="B2CDirect.CaseStudy.SharedKernel/Configurations/DomainDependecyConfiguration.cs" Line="29" Column="20" />
+      <File FileName="B2CDirect.CaseStudy.Domain/Repositories/IGenericRepository.cs" Line="13" Column="27" />
+      <File FileName="B2CDirect.CaseStudy.Api/Startup.cs" Line="59" Column="50" />
+      <File FileName="B2CDirect.CaseStudy.Domain/Repositories/IProductRepository.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.src.B2CDirect.CaseStudy.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.B2CDirect.CaseStudy.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <AuthorInfo Name="cantasci" Email="" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Run-Multiple" Name="Run-Multiple">
+      <Items>
+        <StartupItem ItemId="{BF71B250-940A-43EB-8628-8C575858159F}" ItemName="B2CDirect.CaseStudy.Api" ConfigurationId="Conf" />
+        <StartupItem ItemId="{AF8FCF96-0DE2-456D-9F7E-FA593FFB9401}" ItemName="B2CDirect.CaseStudy.Web" ConfigurationId="Conf" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
