@@ -1,8 +1,0 @@
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.deps.json
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.dll
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/bin/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.pdb
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.csproj.CoreCompileInputs.cache
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.AssemblyInfoInputs.cache
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.AssemblyInfo.cs
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.dll
-/Users/cantasci/Projects/B2CDirect.CaseStudy/B2CDirect.CaseStudy.Common/obj/Debug/netcoreapp2.0/B2CDirect.CaseStudy.Common.pdb
